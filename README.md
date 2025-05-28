@@ -1,5 +1,5 @@
-#  NAME:S.DHAMINI
-## REGISTER NUMBER:212224040064
+#  NAME:S.Hanumanth rao
+## REGISTER NUMBER:212222240016
 # EX-21-POINTERS
 # AIM:
 Write a C program to convert a 23.65 into 25 using pointer
